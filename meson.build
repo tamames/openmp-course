@@ -11,3 +11,4 @@ project(
 openmp_dep = dependency('openmp')
 
 subdir('exercise01')
+subdir('exercise02')
