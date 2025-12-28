@@ -1,5 +1,5 @@
 executable(
   'exercise02',
-  'main.cpp',
+  'exercise02.cpp',
   dependencies : openmp_dep
 )
